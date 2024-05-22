@@ -1,5 +1,5 @@
 Introdução
-Este simples aplicativo de matemática possibilita que o usuário realize cálculos básicos como adição, subtração, divisão e multiplicação, além de cálculos mais complexos como radiciação, potenciação e resto da divisão
+Este simples aplicativo de calculadora matemática possibilita que o usuário realize cálculos básicos como adição, subtração, divisão e multiplicação, além de cálculos mais complexos como radiciação, potenciação e resto da divisão
 
 Recursos
 Interface intuitiva e fácil de usar
